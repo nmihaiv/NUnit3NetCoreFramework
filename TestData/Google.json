@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Search": "seach one",
+    "ExpectedResult": "Home - One Search Ltd"
+  },
+  {
+    "Search": "seach two",
+    "ExpectedResult": "Home - One Search Ltd"
+  },
+  {
+    "Search": "seach treeeeeeeeeeeeeeee",
+    "ExpectedResult": "Home - One Search Ltd"
+  }
+]
